@@ -1,0 +1,424 @@
+ROZPORZĄDZENIE
+MINISTRA P RZEDSIębIORcZOścI I TEchNOlOgII1)
+z dnia 28 maja 2018 r.
+w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące2)
+Na podstawie art. 111 ust. 9 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221
+i 2491 oraz z 2018 r. poz. 62, 86 i 650) zarządza się, co następuje:
+Rozdział 1
+Przepisy ogólne
+§ 1. Rozporządzenie określa:
+1) szczegółowe kryteria i warunki techniczne, którym muszą odpowiadać kasy rejestrujące, oraz sposób oznaczania pa-
+mięci fiskalnej kas rejestrujących numerami unikatowymi, warunki ich przydzielania oraz dokumenty, które powinny
+być dołączone do kasy rejestrującej przy wprowadzaniu jej do obrotu;
+2) dane, które powinien zawierać wniosek producenta krajowego albo podmiotu dokonującego wewnątrzwspólnotowego
+nabycia lub importu kas rejestrujących o wydanie potwierdzenia wymienionego w art. 111 ust. 6b ustawy z dnia
+11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, jak również rodzaje dokumentów, w tym
+oświadczeń, oraz kas rejestrujących wzorcowych do badań i innych urządzeń, które mają być przedstawione lub do-
+starczone wraz z wnioskiem;
+3) okres, na który jest wydawane potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy;
+4) zakres badań kas rejestrujących oraz rodzaje danych zawartych w sprawozdaniu, o którym mowa w art. 111 ust. 6e
+ustawy.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) algorytmie weryfikującym – rozumie się przez to algorytm stosowany w drukarkach fiskalnych, kontrolujący przypi-
+sanie nazw sprzedawanych towarów i usług do stawek podatku od towarów i usług, zwanego dalej „podatkiem”, oraz
+zwolnienia od podatku zgodnie z zasadą, że wartość stawki podatku dla danej nazwy towaru lub usługi nie może być
+zmieniona na wyższą, jeżeli wcześniej jej wartość została obniżona;
+1) Minister Przedsiębiorczości i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządze-
+nia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Przedsiębiorczości
+i Technologii (Dz. U. poz. 93).
+2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 19 stycznia 2018 r. pod numerem 2018/23/PL, zgodnie
+z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji
+norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europej-
+skiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz
+zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+Dziennik Ustaw – 2 – Poz. 1206
+2) dokumencie fiskalnym – rozumie się przez to dokument w postaci papierowej i w postaci elektronicznej emitowany
+przez kasę, oznaczony logo fiskalnym oraz numerem unikatowym kasy, obejmujący paragon fiskalny, paragon fiskal-
+ny anulowany, raport fiskalny oraz fakturę i fakturę anulowaną;
+3) dokumencie niefiskalnym – rozumie się przez to każdy dokument w postaci papierowej i w postaci elektronicznej
+emitowany przez kasę, inny niż dokument fiskalny, zawierający oznaczenie „NIEFISKALNY” i niezawierający logo
+fiskalnego;
+4) dokumencie w postaci elektronicznej – rozumie się przez to zbiór ustrukturyzowanych i uporządkowanych danych
+z dokumentów fiskalnych i niefiskalnych, zapisywanych w pamięci fiskalnej lub pamięci chronionej;
+5) drukarce kasy – rozumie się przez to urządzenie drukujące wszystkie dokumenty dopuszczone programem pracy kasy
+do druku przez kasę;
+6) emisji – rozumie się przez to utworzenie i zapis w pamięci fiskalnej lub pamięci chronionej dokumentu w postaci
+elektronicznej oraz wydruk dokumentu w postaci papierowej na drukarce kasy;
+7) fiskalizacji kasy – rozumie się przez to jednokrotny i niepowtarzalny proces inicjujący pracę pamięci fiskalnej i pa-
+mięci chronionej, zakończony wydrukiem raportu fiskalnego fiskalizacji;
+8) interfejsie komunikacyjnym – rozumie się przez to urządzenie komunikacyjne przewodowe lub bezprzewodowe wraz
+z oprogramowaniem, pracujące pod kontrolą programu pracy kasy, pozwalające co najmniej na wymianę informacji
+z zewnętrznymi programami i zapewniające przekaz danych oraz podłączenie do kasy urządzeń zewnętrznych i termi-
+nala płatniczego;
+9) kasie – rozumie się przez to kasę rejestrującą, ewidencjonującą obrót i kwoty podatku należnego;
+10) logo fiskalnym – rozumie się przez to oznaczenie „PLF” stosowane w przypadku dokumentów fiskalnych w postaci
+elektronicznej albo symbol graficzny stosowany w przypadku dokumentów fiskalnych w postaci papierowej, którego
+wzór określa załącznik nr 1 do rozporządzenia;
+11) module kryptograficznym – rozumie się przez to urządzenie trwale zawarte w kasie, odpowiedzialne za generowanie
+podpisów cyfrowych dokumentów fiskalnych i niefiskalnych emitowanych przez kasę;
+12) numerze ewidencyjnym – rozumie się przez to indywidualny i niepowtarzalny numer nadawany kasie podczas fiskali-
+zacji kasy, zapisany w pamięci fiskalnej i pamięci chronionej, umieszczony na obudowie kasy oraz w książce kasy,
+identyfikujący urządzenie;
+13) numerze unikatowym kasy – rozumie się przez to indywidualny i niepowtarzalny numer nadawany pamięci fiskalnej,
+identyfikujący jednoznacznie każdą kasę z zainstalowaną w niej pamięcią fiskalną;
+14) pamięci fiskalnej – rozumie się przez to urządzenie trwale zawarte w kasie, zawierające elektroniczny nośnik danych,
+umożliwiające niezmienialny zapis danych pod kontrolą programu pracy kasy;
+15) pamięci chronionej – rozumie się przez to urządzenie trwale zawarte w kasie, zawierające elektroniczny nośnik da-
+nych, umożliwiające zapis i odczyt dokumentów fiskalnych i niefiskalnych emitowanych przez kasę pod bezpośrednią
+kontrolą programu pracy kasy, w sposób uniemożliwiający ich zmianę bez wykrycia tego zdarzenia podczas weryfika-
+cji zapisów z zawartością pamięci fiskalnej;
+16) pamięci operacyjnej – rozumie się przez to pamięć wielokrotnego zapisu zawartą w kasie, pracującą pod bezpośrednią
+kontrolą programu pracy kasy, w której są przechowywane dane pochodzące z bieżącej czynności kasowej, do mo-
+mentu zapisu danych z tej czynności, bezpośrednio po jej zakończeniu, w pamięci fiskalnej lub pamięci chronionej,
+albo ich usunięcia przez procedurę awaryjnego zerowania pamięci operacyjnej, niedostępną dla użytkownika kasy;
+17) paragonie fiskalnym albo fakturze – rozumie się przez to dokument fiskalny wyemitowany przez kasę dla nabywcy
+podczas sprzedaży, potwierdzający dokonanie sprzedaży;
+18) paragonie fiskalnym anulowanym albo fakturze anulowanej – rozumie się przez to dokument fiskalny wyemitowany
+przez kasę podczas sprzedaży, potwierdzający niewykonanie rozpoczętej sprzedaży;
+19) podatniku – rozumie się przez to podatnika podatku od towarów i usług;
+20) podpisie cyfrowym – rozumie się przez to dane dołączone do danych lub ich przekształcenie kryptograficzne w rozu-
+mieniu normy ISO 7498-2:1989, które pozwala odbiorcy danych udowodnić pochodzenie danych i zabezpieczyć je
+przed fałszerstwem;
+Dziennik Ustaw – 3 – Poz. 1206
+21) producencie – rozumie się przez to producenta krajowego lub podmiot dokonujący wewnątrzwspólnotowego nabycia
+lub importu kas w celu wprowadzenia ich do obrotu;
+22) producencie krajowym – rozumie się przez to osobę prawną, jednostkę organizacyjną niemającą osobowości prawnej
+oraz osobę fizyczną, która w zakresie prowadzonej działalności gospodarczej wytworzyła dany typ kasy i wprowadza
+ją do obrotu na terytorium kraju;
+23) programie aplikacyjnym – rozumie się przez to zewnętrzny program współpracujący z programem pracy kasy, steru-
+jący funkcjami kasy;
+24) programie do odczytu pamięci – rozumie się przez to zewnętrzny program umożliwiający bezpośredni i lokalny od-
+czyt oraz weryfikację i prezentację danych z pamięci fiskalnej i pamięci chronionej przez interfejsy komunikacyjne
+kasy;
+25) programie pamięci fiskalnej – rozumie się przez to program zawarty w pamięci fiskalnej;
+26) programie pracy kasy – rozumie się przez to program odpowiedzialny za realizację funkcji kasy;
+27) przekazie danych – rozumie się przez to transmisję dokumentów i danych zapisanych w kasie do zewnętrznego syste-
+mu teleinformatycznego, a także zapewnienie możliwości transmisji do kasy poleceń sterujących i konfigurujących jej
+działanie w zakresie określonym w rozporządzeniu;
+28) raporcie fiskalnym – rozumie się przez to raport fiskalny dobowy, raport fiskalny fiskalizacji, raport fiskalny okreso-
+wy, w tym raport fiskalny miesięczny, raport fiskalny rozliczeniowy oraz łączny raport fiskalny okresowy, łączny ra-
+port fiskalny miesięczny i łączny raport fiskalny rozliczeniowy, a także raport fiskalny zdarzeń;
+29) skrócie SHA2 – rozumie się przez to skrót kryptograficzny o długości 256 bitów generowany przy wykorzystaniu
+algorytmu kryptograficznego z rodziny SHA2, zgodnego z normą ISO/IEC 10118-3:2004, umieszczony na emitowa-
+nych przez kasę dokumentach fiskalnych;
+30) sumie kontrolnej – rozumie się przez to unikalny ciąg znaków wyznaczony z zawartości programu za pomocą algoryt-
+mu zgodnego z normą ISO/IEC 10118-3:2004;
+31) trybie fiskalnym – rozumie się przez to tryb pracy kasy obejmujący nieprzerwany okres od zakończenia procesu fiska-
+lizacji kasy do wykonania raportu fiskalnego rozliczeniowego albo łącznego raportu fiskalnego rozliczeniowego;
+32) trybie serwisowym – rozumie się przez to tryb pracy kasy dostępny wyłącznie dla serwisu kasy po usunięciu plomby,
+o której mowa w § 7;
+33) trybie tylko do odczytu – rozumie się przez to tryb, w którym jest możliwy odczyt danych z pamięci fiskalnej lub pa-
+mięci chronionej zapisanych w okresie poprzedzającym przejście kasy w tryb tylko do odczytu oraz jest niemożliwy
+zapis kolejnych danych w pamięci fiskalnej lub pamięci chronionej, a także jest niemożliwa zmiana tego trybu na inny;
+34) zdarzeniu – rozumie się przez to zdarzenie występujące podczas pracy kasy, rejestrowane w pamięci fiskalnej lub pa-
+mięci chronionej, mające znaczenie dla prawidłowości ewidencjonowania obrotu i kwot podatku należnego oraz pra-
+widłowej pracy kasy wymienione w § 19 pkt 3.
+§ 3. Kasa jest urządzeniem samodzielnym lub może stanowić część systemu kasowego.
+§ 4. Kasy, ze względu na konstrukcję, dzieli się na następujące rodzaje:
+1) kasy autonomiczne – kasy z wbudowaną bazą danych o towarach i usługach, zwaną dalej „bazą towarową”, z możli-
+wością jej zmiany, niewymagające programu aplikacyjnego do obsługi kasy;
+2) drukarki fiskalne – kasy sterowane przez interfejs komunikacyjny za pomocą programu aplikacyjnego, które zamiast
+bazy towarowej zawierają algorytm weryfikujący zmiany stawek podatku przypisanych do nazw towarów lub usług.
+§ 5. 1. Kasy, ze względu na przeznaczenie dla danego rodzaju sprzedaży lub sposób ewidencji tej sprzedaży, dzieli się
+na następujące kategorie:
+1) kasy ogólne – kasy przeznaczone do prowadzenia ewidencji obrotu i kwot podatku należnego w sposób niewymagają-
+cy stosowania specjalnych funkcji i rozwiązań konstrukcyjnych;
+Dziennik Ustaw – 4 – Poz. 1206
+2) kasy o zastosowaniu specjalnym – kasy, których konstrukcja i program pracy kasy uwzględniają szczególne zastoso-
+wanie tych kas i odpowiadają szczególnym kryteriom i warunkom technicznym określonym w rozporządzeniu, zwią-
+zanym ze szczególnymi formami obrotu lub sprzedaży określonych towarów i usług lub potrzebą współpracy kasy
+z innymi urządzeniami niezbędnymi do stosowania w danym rodzaju działalności, obejmujące kasy:
+a) przeznaczone do prowadzenia ewidencji przy świadczeniu usług przewozu osób oraz ich bagażu podręcznego
+taksówkami,
+b) przeznaczone do prowadzenia ewidencji przy sprzedaży leków, z funkcją rozliczania recept refundowanych,
+c) przeznaczone do prowadzenia ewidencji przy świadczeniu usług w zakresie transportu pasażerskiego, zwane da-
+lej „kasami biletowymi”,
+d) rozliczające więcej niż jedną transakcję równocześnie,
+e) przeznaczone do prowadzenia ewidencji przy sprzedaży towarów i usług w wolnych obszarach celnych lub skła-
+dach celnych,
+f) zainstalowane w urządzeniach do automatycznej sprzedaży towarów i usług.
+2. W kasie mogą być łączone różne kategorie kas, o których mowa w ust. 1, o ile kasa odpowiada kryteriom i warunkom
+technicznym określonym w rozporządzeniu dla danej kategorii.
+Rozdział 2
+Kryteria i warunki techniczne, którym muszą odpowiadać kasy w zakresie ich konstrukcji
+§ 6. Kasa jest zbudowana w szczególności z następujących elementów konstrukcyjnych:
+1) pamięci fiskalnej;
+2) pamięci chronionej;
+3) pamięci zawierającej program pracy kasy;
+4) pamięci przeznaczonej na zapis bazy towarowej, z wyłączeniem drukarek fiskalnych;
+5) pamięci umożliwiającej działanie algorytmu weryfikującego zmiany stawek podatku przypisanych do nazw towarów
+lub usług w przypadku drukarek fiskalnych;
+6) zegara czasu rzeczywistego;
+7) interfejsu lub interfejsów komunikacyjnych, umożliwiających co najmniej:
+a) przekaz danych, za pośrednictwem sieci Internet lub sieci teleinformatycznej, w sposób określony protokołem
+komunikacyjnym, o którym mowa w § 42 ust. 1 – w przypadku kasy umożliwiającej przekaz danych,
+b) odczyt zawartości pamięci fiskalnej i pamięci chronionej,
+c) współpracę z terminalem płatniczym transakcji bezgotówkowych, z wyłączeniem drukarek fiskalnych;
+8) drukarki kasy;
+9) wyświetlacza dla nabywcy;
+10) wyświetlacza dla użytkownika kasy, z wyłączeniem drukarek fiskalnych, w których rolę wyświetlacza dla użytkowni-
+ka może pełnić wyświetlacz urządzenia zewnętrznego, sterującego drukarką fiskalną;
+11) klawiatury kasy;
+12) zasilania akumulatorowego;
+13) modułu kryptograficznego.
+§ 7. 1. Dostęp do wnętrza kasy jest zabezpieczony co najmniej jedną plombą mechaniczną, przy czym plomba jest:
+1) umieszczona na obudowie kasy;
+2) nieusuwalna albo ulega zniszczeniu przy jej usuwaniu;
+3) oznaczona cechą identyfikującą serwisanta kasy.
+Dziennik Ustaw – 5 – Poz. 1206
+2. Sposób plombowania oraz zamknięcia obudowy kasy uniemożliwia dostęp do wszystkich elementów wewnętrznych
+konstrukcji kasy, przy czym wymaganie to może nie dotyczyć zasilania akumulatorowego kasy.
+3. Dostęp do połączenia kasy z wyświetlaczem dla nabywcy może być niezabezpieczony plombą, o której mowa
+w ust. 1, w przypadku posiadania przez kasę zabezpieczenia uniemożliwiającego wymianę tego wyświetlacza na inny niż
+wskazany w opcjach konstrukcyjnych kasy.
+§ 8. 1. Pamięć fiskalna:
+1) jest kontrolowana wyłącznie bezpośrednio przez program pracy kasy;
+2) jest umieszczona w gnieździe związanym nierozłącznie z obudową kasy, zalanym twardą, nieprzeźroczystą masą
+w sposób uniemożliwiający dostęp do tej pamięci;
+3) uniemożliwia usunięcie lub zmianę zapisanych danych i programu pamięci fiskalnej w przypadku jego stosowania;
+4) zapewnia:
+a) odczyt zapisanych danych przez podmiot prowadzący serwis główny w przypadku uszkodzenia kasy,
+b) trwałe i niezmienne przechowywanie zapisanych danych.
+2. W przypadku stosowania programu pamięci fiskalnej jest on jednoznacznie identyfikowalny wyłącznie w trybie ser-
+wisowym przez nazwę, wersję i sumę kontrolną raportowaną na żądanie.
+3. W przypadku zapełnienia lub uszkodzenia pamięci fiskalnej jej wymiana jest wykonywana wyłącznie przez podmiot
+prowadzący serwis główny. Wymiana pamięci fiskalnej wymaga wymiany pamięci chronionej.
+§ 9. Pamięć fiskalna zapewnia zapis zestawów danych obejmujących:
+1) co najmniej 1830 raportów fiskalnych dobowych;
+2) co najmniej 30 zmian stawek podatku;
+3) 200 zerowań awaryjnych pamięci operacyjnej;
+4) co najmniej 25 000 pozostałych rodzajów zdarzeń;
+5) co najmniej 30 kluczy publicznych kasy.
+§ 10. 1. Pamięć chroniona:
+1) zapewnia przyrostowy i trwały zapis oraz wielokrotny odczyt zapisanych w niej danych w sposób zapewniający we-
+ryfikację niezmienności zapisanych dokumentów fiskalnych i niefiskalnych;
+2) jest kontrolowana wyłącznie bezpośrednio przez program pracy kasy;
+3) jest wymieniana w trybie serwisowym w przypadku jej zapełnienia lub uszkodzenia;
+4) jest chroniona zabezpieczeniem z naniesionymi cechami producenta, zapewniającym nierozłączność pamięci chronio-
+nej z konstrukcją wewnętrzną kasy;
+5) zapewnia trwałe przechowywanie zapisanych danych w przypadku utraty zasilania;
+6) przechowuje dane spójne z danymi w pamięci fiskalnej, z którą współpracuje;
+7) zapewnia odczyt zapisanych danych przez podatnika;
+8) jest powiązana z pamięcią fiskalną.
+2. W przypadku zapełnienia lub uszkodzenia pamięci chronionej jej wymiana następuje po naruszeniu zabezpieczenia,
+o którym mowa w ust. 1 pkt 4, bez konieczności wymiany pamięci fiskalnej, pod warunkiem zapewnienia mechanizmu
+jednoznacznego powiązania pamięci fiskalnej i pamięci chronionej.
+3. Po wymianie pamięci chronionej kasa przekazuje dane o zdarzeniu wymiany pamięci chronionej w celu umożliwie-
+nia otrzymania aktualnego harmonogramu przekazu danych.
+Dziennik Ustaw – 6 – Poz. 1206
+§ 11. Pamięć chroniona zapewnia zapis zestawów danych obejmujących:
+1) co najmniej 1830 raportów fiskalnych dobowych;
+2) co najmniej 30 zmian stawek podatku;
+3) 200 zerowań awaryjnych pamięci operacyjnej;
+4) co najmniej 25 000 pozostałych rodzajów zdarzeń;
+5) co najmniej 30 kluczy publicznych kasy.
+§ 12. 1. Program pracy kasy:
+1) jest zainstalowany w sposób umożliwiający aktualizację wyłącznie przez pobranie nowej wersji programu pracy kasy
+ze źródła aktualizacji zaprogramowanego przez producenta;
+2) jest jednoznacznie identyfikowany przez nazwę, wersję i sumę kontrolną oraz raportuje te dane funkcją dostępną na
+żądanie użytkownika kasy;
+3) zawiera część kontrolującą proces aktualizacji programu pracy kasy, identyfikowalną i weryfikowalną, co do wersji;
+4) steruje w jednoznaczny sposób emisją wszystkich dokumentów emitowanych przez kasę, w tym wydrukiem, oraz
+wyświetlaczem kasy;
+5) uniemożliwia wydruk dokumentów niezdefiniowanych w programie pracy kasy;
+6) steruje funkcjami kasy zgodnie z wymogami, o których mowa w ustawie.
+2. Program pracy kasy nie może zawierać funkcji usuwania lub zmiany danych zapisanych w pamięci fiskalnej lub pa-
+mięci chronionej.
+§ 13. Drukarka kasy drukuje:
+1) na taśmie paragonowej o szerokości nie mniejszej niż 28 mm;
+2) dokumenty fiskalne zawierające znaki nie mniejsze niż 2,50 mm oraz nie mniej niż 17 znaków w linii;
+3) dokumenty niefiskalne oraz treści reklamowe i informacyjne, o których mowa w § 23 ust. 1 pkt 31 oraz § 25 pkt 11,
+zawierające znaki nie mniejsze niż 1,50 mm.
+§ 14. 1. Wyświetlacz dla nabywcy zapewnia nabywcy dostępny odczyt wyświetlanej wartości sprzedaży.
+2. Wyświetlacz dla nabywcy umożliwia wyświetlenie znaków w liczbie nie mniejszej niż liczba znaków maksymalnej
+wartości sprzedaży, dopuszczalnej konstrukcją kasy, określoną przez producenta.
+§ 15. Klawiatura kasy zapewnia co najmniej wykonanie raportów fiskalnych dobowych i okresowych oraz raportów
+zdarzeń.
+§ 16. 1. Zasilanie akumulatorowe kasy umożliwia wydruk co najmniej 200 dokumentów fiskalnych i niefiskalnych
+o łącznej długości co najmniej 6000 linii po 48 godzinach od odłączenia zasilania zewnętrznego, z wyłączeniem przekazu
+danych.
+2. Wymóg, o którym mowa w ust. 1, nie dotyczy:
+1) kas, o których mowa w § 5 ust. 1 pkt 2 lit. a;
+2) kas biletowych – w przypadku gdy są zasilane z instalacji pojazdu samochodowego.
+§ 17. Kasa umożliwia:
+1) lokalny odczyt z pamięci fiskalnej i pamięci chronionej danych w postaci elektronicznej oraz weryfikację za pomocą
+klucza publicznego kasy tych danych w komputerowych systemach ogólnodostępnych;
+2) przy współpracy z programem do odczytu pamięci:
+a) odczytywanie danych zapisanych w pamięci chronionej i pamięci fiskalnej oraz ich drukowanie, zapisywanie
+w komputerowych systemach ogólnodostępnych, a także wydruk tych danych przez kasę, z której pochodziły
+zapisywane dokumenty w postaci elektronicznej,
+Dziennik Ustaw – 7 – Poz. 1206
+b) sprawdzenie zapisanych dokumentów, w szczególności związanych z zastosowanymi zabezpieczeniami,
+c) realizację funkcji sortujących umożliwiających co najmniej tworzenie raportów okresowych, wyszukiwanie do-
+kumentów według zadanych parametrów, takich jak data, czas i numer dokumentu, oraz wyszukiwanie wskaza-
+nych stawek podatku przy sprzedażach, wyszukiwanie określonych nazw towarów i usług; w programie nie po-
+winny być dostępne dla użytkownika kasy żadne procedury edytowania tekstu.
+§ 18. 1. Konstrukcja kasy nie może umożliwiać zaprogramowania w jej pamięciach wewnętrznych oraz wykonywania
+programów nieuwzględnionych w wykazie oprogramowania kasy, o którym mowa w § 55 ust. 1 pkt 15.
+2. Kasa nie może zawierać rozwiązań konstrukcyjnych, również w zakresie oprogramowania, umożliwiających nie-
+uprawnioną ingerencję w dane przetwarzane i zapisane przez kasę albo skutkujących utratą lub zmianą tych danych,
+w szczególności w przypadku wystąpienia sytuacji awaryjnych, z wyjątkiem zerowania pamięci operacyjnej.
+3. Kasa nie może zawierać rozwiązań konstrukcyjnych, które prowadzą do nieprawidłowej ewidencji obrotu oraz nie-
+prawidłowego wyliczania kwot podatku należnego.
+Rozdział 3
+Kryteria i warunki techniczne, którym muszą odpowiadać kasy w zakresie przechowywania danych
+w ich pamięciach
+§ 19. Kasa zapewnia zapis w pamięci fiskalnej, w szczególności:
+1) pierwszych 20 bajtów podpisów cyfrowych oraz łącznych wartości brutto dla każdego z paragonów fiskalnych, para-
+gonów fiskalnych anulowanych, faktur oraz faktur anulowanych, emitowanych przez kasę;
+2) danych zawartych w raporcie fiskalnym dobowym, obejmujących co najmniej:
+a) podpis cyfrowy,
+b) niepowtarzalny numer kolejny raportu fiskalnego dobowego,
+c) datę i czas rozpoczęcia i zakończenia sprzedaży objętej raportem fiskalnym dobowym,
+d) datę i czas zakończenia raportu fiskalnego dobowego,
+e) osobno dla paragonów fiskalnych i faktur (o ile występują) wartość sprzedaży bez podatku (netto) według po-
+szczególnych stawek podatku,
+f) osobno dla paragonów fiskalnych i faktur (o ile występują) wartość sprzedaży zwolnionej od podatku,
+g) osobno dla paragonów fiskalnych i faktur (o ile występują) kwotę podatku według poszczególnych stawek podatku,
+h) osobno dla paragonów fiskalnych i faktur (o ile występują) łączną kwotę podatku,
+i) osobno dla paragonów fiskalnych i faktur (o ile występują) łączną wartość sprzedaży brutto,
+j) łączną wartość sprzedaży niepodlegającej opodatkowaniu, o ile występuje,
+k) liczbę i łączną wartość paragonów fiskalnych anulowanych, o ile występują,
+l) liczbę i łączną wartość faktur anulowanych, o ile występują,
+m) liczbę wyemitowanych dokumentów niefiskalnych od wykonania ostatniego raportu fiskalnego dobowego,
+n) dane dotyczące sprzedaży z kas, o których mowa w § 5 ust. 1 pkt 2,
+o) liczbę zmian dla bazy towarowej obejmujących dodanie, zmianę nazwy, usunięcie towaru lub usługi oraz zmianę
+przypisanej do nazwy towaru lub usługi stawki podatku, a także zwolnienia od podatku,
+p) liczbę paragonów fiskalnych objętych raportem fiskalnym dobowym,
+q) liczbę faktur objętych raportem fiskalnym dobowym, o ile występują;
+3) rejestru zdarzeń zawierającego:
+a) zdarzenia dotyczące:
+– zmiany stawek podatku,
+– ręcznych zmian ustawień daty i czasu,
+Dziennik Ustaw – 8 – Poz. 1206
+– zmiany waluty ewidencyjnej,
+– zmiany konfiguracji przekazu danych, z wyłączeniem dostępu do konfiguracji sieci, dostępnej wyłącznie
+w trybie serwisowym,
+– fiskalizacji kasy,
+– zakończenia pracy w trybie fiskalnym,
+– aktualizacji programu pracy kasy wraz z jego sumą kontrolną,
+– włączenia i wyłączenia trybu serwisowego,
+– wymiany pamięci chronionej powiązanej z pamięcią fiskalną,
+– dat wykonania przeglądów technicznych wraz z polem do wprowadzenia numeru identyfikatora serwisanta,
+– kasowania bazy algorytmu weryfikującego,
+– programowania źródła aktualizacji programu pracy kasy,
+– wymiany klucza publicznego kasy,
+– zmiany adresu punktu sprzedaży,
+b) w przypadku zdarzenia dotyczącego programowania parametrów pracy kasy wskazanych w lit. a rejestr zdarzeń
+zawiera jednoznaczne oznaczenie parametru programowanego, datę i czas zmiany, a także wartości parametru po
+zmianie,
+c) w przypadku zdarzenia dotyczącego sytuacji awaryjnych jednoznaczne oznaczenie rodzaju sytuacji awaryjnej,
+o ile występują, oraz datę i czas wystąpienia wraz z numerem kolejnego raportu fiskalnego dobowego; rejestr
+zdarzeń obejmuje także zdarzenia dotyczące:
+– awaryjnego zerowania pamięci operacyjnej,
+– błędów weryfikacji danych zawartych w pamięci chronionej,
+– awarii zasilania kasy podczas pracy, uniemożliwiającej kontynuację rozpoczętych zadań,
+– blokady możliwości rejestracji sprzedaży, z wyłączeniem § 37 ust. 1 pkt 3 i 4,
+– błędów aktualizacji programu pracy kasy,
+– utraty ciągłości numeracji dokumentów fiskalnych i niefiskalnych;
+4) parametrów pracy kasy, co najmniej:
+a) numeru unikatowego kasy,
+b) numeru identyfikacji podatkowej (NIP) podatnika,
+c) sum kontrolnych programu pracy kasy i programu pamięci fiskalnej wraz z datą instalacji,
+d) wyłącznie oznaczeń literowych od A do G, służących podatnikowi do przypisania stawki podatku do nazw towa-
+rów i usług, w tym zwolnienia od podatku,
+e) numeru ewidencyjnego kasy,
+f) kolejnego numeru pamięci chronionej powiązanej z pamięcią fiskalną;
+5) kluczy publicznych kasy służących do weryfikacji danych zapisanych w danej pamięci chronionej.
+§ 20. Kasa zapewnia zapis w pamięci chronionej, w szczególności:
+1) numeru unikatowego kasy nadanego pamięci fiskalnej powiązanej z pamięcią chronioną;
+2) numeru ewidencyjnego;
+3) numeru kolejnej pamięci chronionej powiązanej z pamięcią fiskalną;
+4) numeru identyfikacji podatkowej (NIP) podatnika;
+5) harmonogramu przekazu danych określonego protokołem komunikacyjnym, o którym mowa w § 42 ust. 1 – w przy-
+padku kasy umożliwiającej przekaz danych;
+6) wszystkich dokumentów fiskalnych emitowanych przez kasę, z wyłączeniem raportów fiskalnych okresowych, rapor-
+tów fiskalnych zdarzeń oraz dokumentów stanowiących odczyt zawartości pamięci fiskalnej lub pamięci chronionej;
+Dziennik Ustaw – 9 – Poz. 1206
+7) wszystkich dokumentów niefiskalnych emitowanych przez kasę;
+8) elementów graficznych wykorzystywanych w treści dokumentów fiskalnych i niefiskalnych w sposób jednoznacznie
+wiążący je z dokumentami fiskalnymi i niefiskalnymi, na których zostały wykorzystane;
+9) liczby zakończonych niepowodzeniem prób przekazu danych od wykonania ostatniego raportu fiskalnego dobowego;
+10) kluczy publicznych kasy służących do weryfikacji danych zapisanych w danej pamięci chronionej.
+§ 21. Dane wykazane w dokumentach fiskalnych i niefiskalnych muszą być zgodne z danymi zapisanymi w pamięci
+fiskalnej i pamięci chronionej oraz z danymi wprowadzanymi do kasy podczas użytkowania.
+§ 22. Dane zawarte w raportach fiskalnych dobowych muszą być zgodne z danymi wykazanymi na paragonach fiskal-
+nych, paragonach fiskalnych anulowanych, fakturach, fakturach anulowanych i rejestrach zdarzeń dotyczących danego
+okresu.
+Rozdział 4
+Kryteria i warunki techniczne, którym muszą odpowiadać kasy w zakresie emitowanych przez nie dokumentów
+§ 23. 1. Kasa emituje paragony fiskalne w postaci papierowej i elektronicznej zawierające co najmniej kolejno pozycje:
+1) element graficzny, o ile występuje;
+2) imię i nazwisko lub nazwę podatnika, adres punktu sprzedaży, a dla sprzedaży prowadzonej w miejscach niestałych
+– adres siedziby lub miejsca zamieszkania podatnika;
+3) numer rejestracyjny i numer boczny taksówki – dla kasy, o której mowa w § 5 ust. 1 pkt 2 lit. a;
+4) numer identyfikacji podatkowej (NIP) podatnika;
+5) kolejny numer dokumentu;
+6) oznaczenie „PARAGON FISKALNY”;
+7) blok danych biletowych dla kas biletowych, mogących występować przemiennie z pozycjami transakcji, o których
+mowa w pkt 9, zawierający kolejne pozycje, w tym co najmniej:
+a) oznaczenie „BILET” lub „OPŁATA DODATKOWA”,
+b) rodzaj biletu,
+c) tytuł ulgi – w przypadku biletu ulgowego,
+d) numer kursu – w przypadku biletu jednorazowego,
+e) nazwę przystanku początkowego i końcowego lub zakres ważności lub okres ważności biletu,
+f) imię i nazwisko posiadacza biletu – w przypadku biletów okresowych imiennych;
+8) blok danych kursu dla kas, o których mowa w § 5 ust. 1 pkt 2 lit. a, zawierający kolejne pozycje sprzedaży, w tym co
+najmniej:
+a) czas rozpoczęcia oraz zakończenia kursu,
+b) przebytą w kursie drogę,
+c) oznaczenie „OPŁATA POCZĄTKOWA”,
+d) wartość opłaty początkowej kursu z oznaczeniem literowym stawki podatku, zwolnienie od podatku lub oznacze-
+nie „NIEPODLEGAJĄCA OPODATKOWANIU”,
+e) opis kolejnych taryf, na których był rejestrowany kurs, cenę danej taryfy za 1 kilometr oraz za 1 godzinę,
+f) liczbę jednostek taryfowych zarejestrowanych w danej taryfie,
+g) cenę jednostki taryfowej,
+h) wartość sumaryczną jednostek taryfowych,
+i) oznaczenie literowe stawki podatku, zwolnienie od podatku lub oznaczenie „NIEPODLEGAJĄCA OPODAT-
+KOWANIU”,
+Dziennik Ustaw – 10 – Poz. 1206
+j) oznaczenie „DOPŁATA”, o ile występuje,
+k) liczbę jednostek dopłaty, o ile występuje,
+l) cenę jednostki dopłaty, o ile występuje,
+m) wartość sumaryczną dopłaty, o ile występuje, z oznaczeniem literowym stawki podatku albo oznaczenie
+„NIEPODLEGAJĄCA OPODATKOWANIU”,
+n) zamiast danych, o których mowa w lit. c–m, w przypadku stosowania ceny umownej występuje blok danych za-
+wierający co najmniej:
+– oznaczenie „CENA UMOWNA”,
+– wartość ceny umownej za kurs,
+o) oznaczenie literowe stawki podatku albo zwolnienie od podatku albo oznaczenie „NIEPODLEGAJĄCA
+OPODATKOWANIU”;
+9) blok danych z pozycjami transakcji zawierający w szczególności:
+a) kolejne pozycje sprzedaży zawierające co najmniej:
+– nazwę towaru lub usługi pozwalające na jednoznaczną ich identyfikację,
+– ilość towaru lub usługi,
+– jednostkę miary, o ile występuje,
+– cenę jednostkową towaru lub usługi,
+– wartość sumaryczną towaru lub usługi,
+– oznaczenie literowe stawki podatku, zwolnienie od podatku lub bez oznaczenia w przypadku sprzedaży nie-
+podlegającej opodatkowaniu – dla kas biletowych,
+– opis towaru lub usługi, mogący zawierać elementy tekstowe, kody kreskowe, kody dwuwymiarowe, o ile wy-
+stępuje; dla postaci elektronicznej kody graficzne są zapisywane w postaci tekstowej,
+– wartość ulgi w przypadku biletu ulgowego – dla kas biletowych,
+– informację o wartości opłaty po uwzględnieniu zniżek i refundacji, o ile występuje – dla kasy, o której mowa
+w § 5 ust. 1 pkt 2 lit. b,
+– opust, narzut lub obniżkę do pozycji sprzedaży, o ile występuje,
+b) pozycje opustów, narzutów i obniżki, o ile występują, zawierające co najmniej:
+– oznaczenie „OPUST” lub „NARZUT”, lub „OBNIŻKA”,
+– wartość opustu, narzutu lub obniżki,
+– nazwę opustu, narzutu lub obniżki, o ile występuje,
+– oznaczenie stawki podatku, której dotyczy opust, narzut lub obniżka, z wyjątkiem opustu, narzutu lub obniżki
+udzielanych do pozycji sprzedaży, lub do grupy towarów lub usług, lub do całego paragonu,
+c) pozycje rozliczenia zaliczki, o ile występują, zawierające co najmniej:
+– oznaczenie zaliczki,
+– wartość uwzględnionej zaliczki,
+– oznaczenie literowe stawki podatku lub zwolnienie od podatku,
+– sumę do dopłaty po odliczeniu zaliczki, o ile występuje,
+d) pozycje storna – o ile występują, zawierające co najmniej:
+– oznaczenie „STORNO”,
+– nazwę i ilość stornowanego towaru lub usługi,
+– kwotę stornowania,
+– oznaczenie stawki podatku stornowanego towaru lub usługi;
+10) łączne wartości udzielonych opustów, narzutów lub obniżek, o ile występują;
+11) łączne wartości sprzedaży brutto w poszczególnych stawkach podatku oraz zwolnienie od podatku po uwzględnieniu
+opustów, narzutów, obniżek i rozliczeń zaliczek;
